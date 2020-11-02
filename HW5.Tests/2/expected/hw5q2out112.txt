@@ -1,0 +1,32 @@
+Please enter the number of strings:
+Please enter the 26 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+@@((
+@
+%%%
+@@@@
+(
+%&&&$$$$z
+@@ZZ
+rrtt
+$$$!!!@@@@llll!!A
+ii$nnn
+mqq
+@!!!!TT(((ooo
+xxxx##bb
+NNNNSII(
+BBBBbbbb&k(eee
+ccEE$$ZZZ
+xxqqqcccc
+kkkktttGGGGGG
+nnjjjrrr##
+nnnnMMMVV
+%%Np&!!!!bbb
+qqqIIIEFFFF
+ttttffffqllll$$!!!!
+qqqqQQMMMMMMMFFFpppp
+Yeeexxxxll
+$$vvv@@CCCtt!!!ee

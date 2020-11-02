@@ -1,0 +1,17 @@
+Please enter the number of strings:
+Please enter the 11 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+EEE%%(%%%
+qqqLL
+#######yyygg
+$$$$UUUPPPPxxx
+ziiixx
+MMM@@@@x####bb
+&&&&DDDggwwww$$%%HHH
+nnRR&zzz%%M
+hhaaa!!!!ddddzz(o
+aYYYY###WCCC((((oo
+OOHdcttzzzz

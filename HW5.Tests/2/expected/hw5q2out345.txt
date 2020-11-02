@@ -1,0 +1,56 @@
+Please enter the number of strings:
+Please enter the 50 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+#
+##
+vv
+HH
+WW
+NNNN
+EEEE]]^^
+!!!!q][[[
+^^^XXXX
+Z
+!!ssssEEEE#
+AAA{{rrrr!!!!$$${{{{
+qqg
+^^pUU
+Y!!!^^^^!!!!]TTTT###
+h]]]]]]]SSSShh[[[[##
+TTTTiii
+bggg
+BBBBSjj
+VVVHHH^vvvBBBB[]]]]
+#[[[qqiiiiEEEE!!!![[
+zz{{{{{]]]][[WWWWWWX
+NNkkk{{XXX]]]]IIII]]
+[[eDDDDhhj####{e^^
+RRRR^JJJJoo[[[oo^^^k
+[[[TTT{{{wbbbb^^^$$z
+mmmmsss]DU
+Muuuu$ZZZZ!!!!yyyymm
+##sssIuuIZZ[[[ZZZZZZ
+$$$$aall!!qqqqDDDD
+VVVVsssVV{[[uu{{{{qq
+!!!!mZOdd
+aazzjjjj$$$${{{{H
+EEEEppppGaaaaPPppp!!
+qqxxxkkk{{!!!!NN
+#!!!RRRRHHHFFFFg[[[[
+eeeessskkkH
+uu$$$$!!!BBVVLL]]eee
+ebBBBBrrr##DDLLLL
+aaa####VVVqqwwwwGGG
+!oooikkkrrrjj!!!!
+[[[qqqppppMaaX
+uuvvvvscccchh{{{^^##
+[[Q$$$$zzzCSSSShhhh
+ooookk$$LLaaaNNNsssS
+vvvvnnnXXX##qqw$$$ff
+^^GGJJkkkkfff#zzzII#
+yywwwJJJOOOVEEE####N
+xxxxdww^^lllvv$^^KKj
+ii^^TTwwww]znnnn$Rjj

@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+__demon_scantling_refraction_vitalize_chimpanzee_mere__vireo_begetter

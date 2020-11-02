@@ -1,0 +1,24 @@
+Starting the AES Algorithm, please pick amount of iterations:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Invalid amount of iterations!
+Please try again:
+Please pick a matrix size:
+Please enter the matrix:
+The encrypted message is:
+134 133 82 207 4 83 
+131 161 68 148 34 208 
+153 196 48 59 148 46 
+125 58 193 9 155 126 
+40 145 65 39 253 41 
+92 45 103 124 119 216 

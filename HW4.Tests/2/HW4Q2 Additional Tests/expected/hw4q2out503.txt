@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+_sod_fearsomely_atypically_unsaddle_paucity__profaneness__offence__aerator_unsportsmanlike_guacamole_flog

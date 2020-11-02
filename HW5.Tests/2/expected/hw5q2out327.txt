@@ -1,0 +1,27 @@
+Please enter the number of strings:
+Please enter the 21 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+{{[[[
+#
+####ffff
+ggg
+!P
+uu^^^^t
+{{{QQQQHHHH##fff$$
+rrrrLLOOOO
+###EEEEBBBB^^qqhhhh{
+EEEEmm^^^[[[[kkkk^^d
+tcccdddR
+ppvvvvIII$$$$hhhh^^^
+I!!!!!QQkkk^^$uu$$$$
+AAAAPPABBB####DDDTTT
+SSSS[[[rwwAAAA^^LLYr
+!oooobbbbHHXXuuuuIII
+jjjaa]]]uuuuWyyZZOOz
+eKttcbGGNNN{tG##
+ttSSSS$nnhxx##{{kkko
+{{#[llPPPK[IXXXq$$$r
+UUUFFFFJw{{nnVVVVLL

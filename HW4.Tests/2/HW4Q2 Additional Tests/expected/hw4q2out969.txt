@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+firstborn_junky_learnedly

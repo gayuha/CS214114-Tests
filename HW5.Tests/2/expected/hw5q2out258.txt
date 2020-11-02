@@ -1,0 +1,14 @@
+Please enter the number of strings:
+Please enter the 8 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!y(!MipRo@(m
+(z@&u#qB
+eL(MRj
+i@JD!hzYT%F(
+JgawiXw
+NPjzC&!B%b(
+tOE#
+Wj$%

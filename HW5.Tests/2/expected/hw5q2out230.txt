@@ -1,0 +1,13 @@
+Please enter the number of strings:
+Please enter the 7 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+G
+&%(o(
+q
+L@c(EL#
+Q(TfG
+fBaaxt(D
+@ljK&jRVh$$&

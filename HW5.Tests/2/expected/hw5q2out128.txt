@@ -1,0 +1,53 @@
+Please enter the number of strings:
+Please enter the 47 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!!XXC
+####KBBBwwQ$((
+$$
+$XXXX
+%%$saakkWWWW
+%%%$$$nn
+%%%%$$$$
+%%%EEENNNPPPP$OOO((
+%%%ppKKKKXXXXddd@
+%%ZZZZQQ###
+&&&
+&&&&&RRR
+&&Snnnii
+&&zzzz((kkk(p$$$$
+((((
+((rrWWWEEEDDDuuPPP
+@@@!!
+AAAATTT!!!!
+bbbw####gg###dd
+bbVV
+bxx
+ccccaaaFFhhhhOOOGGG
+dddd
+DDWWW((((@@@&&&&ZZ@
+EEEECCkk$$$NNNNrrr
+EEELLLL(($$$nnn
+HHHOOOXXX##gggg
+III(QZZZZFB$$$$
+jjjbbb(((MMM
+nnnZZYYYYsss&&&&N%
+nnoott
+OOO&&&gUUU
+ppp
+PPPPffffYYYY(
+QQQ
+qqq$!!!!B
+QQQQ
+qqqyy
+rbb
+rrrreeeeDDvvp
+SS
+UUUAnnnWWW
+vv
+WuLLLL%&&zz!!!
+WWWf$$$$
+XXEEEVVVV
+YYnnn((&&&&F!

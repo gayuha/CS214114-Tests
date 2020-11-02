@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+disrupter____delineative_inventory__quarterdeck__Oxford_electrify____placement___repossess_____teasing

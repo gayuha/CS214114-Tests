@@ -1,0 +1,51 @@
+Please enter the number of strings:
+Please enter the 45 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+aaaaUU
+aaaaYY
+bb
+CCjjjyyyyBBBB
+dddMMMMPPPTTTdd
+dddNNNNXXXXTT
+eeammmoooomss
+EEECCCC
+EEEEddddQQQQ
+eeeeSSSttxxxxff
+eeeLLLXXX
+eehhhhP
+FFF
+FFFFPPPvvYl
+GGGGBBM
+hhhiiiiZZZeeWWWW
+kPPffqqqBKKKz
+LLLLrrrvvvLFF
+llXXXCCpp
+NccLrIOOOoo
+nnKKKKwwwvTTTvPPPP
+pppmE
+QeeeeKKKKbbbwwWWW
+qqqGAAwwwTTBBBB
+rbnkkkZZZeeOOOO
+RRRydacccc
+s
+SSbbQQQ
+ttDDjjjjt
+ttttxxtttthhhhDDD
+UXXXXQQgsHNNN
+VVVVIjj
+VVVwwwVVVVDDDD
+WWFFyyyyggEEEEKK
+wwssBBBZZZyMMMMkkk
+wwww
+WWWWKKx
+wxddddIIKhhhhn
+Yaaa
+yyy
+yyyuuugEEEEQQQQXXXX
+yyyyccccTTTIIIINNNxx
+YYYYrrrSAAOOOzzz
+ZZZZ
+zzzzwQQQQ

@@ -1,0 +1,42 @@
+Please enter the number of strings:
+Please enter the 36 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+ZZZZ
+bbbb!
+LL
+ll[[[[
+d[
+[JJJJVVVV
+$$$^^^Qjj
+]####iiiMMMM$$$$####
+iiii[[[oo
+LLLZZ{{{
+KK[[[[$${[a[[[
+eeeeMM
+]ff{{$$$${{^^^D[[[[U
+aaaaK[[N]]]
+wwwwLLLLEE
+^^^$GGG$${cccqqq[[[[
+bbbbeeJJ
+^^^^^^^AAAAttttL^$$[
+VVVV$$NN$$$gg!!
+ccc!!!!{###ooppQQQQ#
+XXXXbbEEEEKK!!^^BBBB
+yyyy^^LL]]ttttRLL]]]
+bbbb[[[OOOOrrW##{{{!
+ss{{AAAMMM$$$$^^^^OO
+ggg]]]MMMMkkkkB#
+!FttttGGH[!!!$$$$xxx
+yDDDDqqqqssssyyyyccc
+qqqqlll$TTTOC[[[
+w{zzLLLyTT
+QQQQzBeee#[[$$$$a
+MM]]]]bbbUYyLL
+zzzHHHH^^^^ookxx
+UUU]]III##FFFFCCk$$$
+{{$$lllWWW[[$$CCTTTz
+RCChhh{{{{nnggbb{^^^
+ss^^^guuuuFFFTThhh$$

@@ -1,0 +1,35 @@
+Please enter the number of strings:
+Please enter the 29 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+&&
+$$$$
+@
+NNN$$$$
+##VV
+@YYYY
+@Q
+qqq((((
+$$J
+&&&##ttt
+qqqq
+q@@@@@@NNN&((####
+zzzzhh
+llll$$$$$$$$####jjj%
+ib
+ppptttaa
+JJJJWJJJqqqq
+BBV!!!hhhhXXX
+(((SSCCCFFFT(
+xxx@@WWWW(((fffaa!
+bbbyaaaOOOO
+E((DDxxxxFFxx
+PPPzzzPnKKK@@@ff
+@@@@HHaaQQSg
+iiip@@$$$$sDDq
+DDDnnnnUUUU#wnBBBB
+&&&K((OOOssssNNxx
+ZZZZwII#ooYYY((((
+eeXXXXnnKKKUUUU

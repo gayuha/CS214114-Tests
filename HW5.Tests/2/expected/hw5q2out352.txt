@@ -1,0 +1,24 @@
+Please enter the number of strings:
+Please enter the 18 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+AAGGGG
+bbbbBBBhhh$$$N#$$$ww
+ccBBptttPi
+DD{{{[[[[[[[DDDD!!^^
+DZZZZGB{{{]bb^^^^uKK
+D[^^^KKYYdddVVVgggg^
+HHnnPPPPKMMM^^^!III
+mNN$WW[[xxxxghh]$$
+OOEtttt]]]]
+PPTTg#
+R
+SSMMMMccc!!!![[[[###
+ttt[[[OORRReeee
+uuF]cwwwZHxxxUUU
+uuuutAAAA]]]!!
+UUUU]]]II$$${{{Yxx]]
+]]][[NNNNHHHHFFU[{NN
+{{vvv!!!###wwwwp!!hh

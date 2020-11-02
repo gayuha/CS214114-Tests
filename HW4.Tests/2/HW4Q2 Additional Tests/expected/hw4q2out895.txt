@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+_cutoffs_astir_____unwind____niceness_mediacy_

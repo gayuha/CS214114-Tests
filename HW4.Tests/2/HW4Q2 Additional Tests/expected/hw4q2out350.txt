@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+macrocephalic_assenter_soldiering_orbiter____tontine______inspirer_velour

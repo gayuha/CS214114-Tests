@@ -1,0 +1,8 @@
+Starting the AES Algorithm, please pick amount of iterations:
+Please pick a matrix size:
+Please enter the matrix:
+The encrypted message is:
+46 248 14 137 
+246 13 88 83 
+57 238 202 66 
+124 20 42 28 

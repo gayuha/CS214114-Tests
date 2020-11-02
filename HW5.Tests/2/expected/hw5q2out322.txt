@@ -1,0 +1,46 @@
+Please enter the number of strings:
+Please enter the 40 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+$
+{
+hhh
+ii
+i
+ZZ
+FF!AAAA
+jjjj{{i
+wwXX####
+VVssss##
+rrNN
+uuqqqH
+oY$ooob
+PPPP##www]]E!!!!{{{{
+]]S^^^RRRR[^^^^UUUUR
+OOOOiJJJJ
+C$ZZZZxxx
+]]]]###IIIIzzzzffXXX
+aaaa]]]ttPPP####!zzz
+NNNNWVw[bb
+IIItttt[[[[VVE
+{cciiiipp!CCC$ZZZZ!!
+YHHHHooooD
+[[[jj^^^^UUUUBBBQ
+^^^^uuuuEEEEiiieeeeL
+mmmm{{{{uuugmmmmGGWW
+RRRRuu[[[[xxx$$K$$$$
+J^^^^kkkkSSSjjjhhh$
+rrrrNNa$$$$BBBwwwww^
+hhhhSS]]]TTTTNNNNvvv
+###$$$YYW^^^Sbjjj
+$eeNNCCC{{k[wwww^^^^
+WWffffu{{{{zzzz]]xxx
+bbSSSSuYYYYjjjj
+vGGGGeIIKK
+$$$$XWWWWN!!!!J^^SSS
+yyyyCC^^^]lVVV###KKK
+UUUJJJbbbmmAA!!uuuJJ
+WWWuZZZZZZwCCCRR]]]q
+vvDDMMMIIZZZ]$$$$jjj

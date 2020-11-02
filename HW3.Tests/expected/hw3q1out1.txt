@@ -1,0 +1,6 @@
+Welcome to multi-snake  game, The game have 2 player Percent and Shtrodel.
+The game starts with PERCENT player.
+You have to choose 4 moves :Up,Down,Right and Left The Percent player is the snake that starts in (0,0)
+
+Insert board size between 4 and 25:
+Error with the input.

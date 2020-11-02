@@ -1,0 +1,2 @@
+Enter matrix size (row and column numbers): Enter matrix:
+Invalid matrix!

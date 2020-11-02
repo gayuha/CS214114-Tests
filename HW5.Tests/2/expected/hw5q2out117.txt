@@ -1,0 +1,18 @@
+Please enter the number of strings:
+Please enter the 12 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+V$
+rrrr###
+HHHH@@
+NV
+NNN@@@UU
+xx!!!!((((mmmXXXX$
+!!!!iiii&G
+EEEHHCC
+tttk!!!@QQQQ%%$$$$
+aaajjTTT
+&&JJSSSSz
+KKXXXX##nnn$

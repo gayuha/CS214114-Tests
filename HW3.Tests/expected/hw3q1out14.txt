@@ -1,0 +1,215 @@
+Welcome to multi-snake  game, The game have 2 player Percent and Shtrodel.
+The game starts with PERCENT player.
+You have to choose 4 moves :Up,Down,Right and Left The Percent player is the snake that starts in (0,0)
+
+Insert board size between 4 and 25:
+Insert the maximum number of steps the snake can do without food:
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+#%**F #
+#     #
+#     #
+#     #
+#@++  #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+#** F #
+#%    #
+#     #
+#     #
+#@++  #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+#** F #
+#%    #
+#     #
+#@    #
+#++   #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+#*  F #
+#*%   #
+#     #
+#@    #
+#++   #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+#*  F #
+#*%   #
+#     #
+#+@   #
+#+    #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# % F #
+#**   #
+#     #
+#+@   #
+#+    #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# % F #
+#**   #
+#     #
+#++@  #
+#     #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# *%F #
+# *   #
+#     #
+#++@  #
+#     #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# *%F #
+# *   #
+#     #
+# ++@ #
+#     #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+# **%F#
+# *   #
+#     #
+# ++@ #
+#     #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# **%F#
+# *   #
+#     #
+#  ++@#
+#     #
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+# ***%#
+# *  F#
+#     #
+#  ++@#
+#     #
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# ***%#
+# *  F#
+#     #
+#   ++#
+#    @#
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+# ****#
+# *  %#
+#    F#
+#   ++#
+#    @#
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# ****#
+# *  %#
+#    F#
+#    +#
+#   @+#
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+# ****#
+# *  *#
+#   F%#
+#    +#
+#   @+#
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+#######
+# ****#
+# *  *#
+#   F%#
+#     #
+#  @++#
+#######
+
+
+******* Turn of % ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+in order to continue the game please Insert a row then column numbers to place the next food: 
+#######
+#F****#
+# *  *#
+#   %*#
+#     #
+#  @++#
+#######
+
+
+******* Turn of @ ***********
+Enter the direction to move your snake: (2-down,4-left,6-right,8-up):
+
+The game finish and the winner is:
+*** PERCENT player ****.
+The reason is Illegal move of the SHTRODEL player.
+

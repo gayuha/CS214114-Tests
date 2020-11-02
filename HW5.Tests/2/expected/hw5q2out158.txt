@@ -1,0 +1,56 @@
+Please enter the number of strings:
+Please enter the 50 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+##%
+@@@&&@@@@
+@
+!!!!&&&%%%%
+@@@@$$$
+B
+ggg
+!!!nn
+ww
+HHH
+SSS$$$
+$$((OOOO#
+fff
+##a
+l
+ll#ggg
+@@vUUUU
+!!ppppbbbb
+uuu@@@@vvv#(
+@@@$$&JJJjjjEE(((
+AAA##gggg
+(((jjjUU
+@@@mmmm%zz
+(%%%%F!%II
+HHVV
+DDDDPPP####
+KKKgg
+xxxzzzz
+@&&&CDDDD(##
+@@DD((x@@
+bbnnn$$kkkB$
+Qaammmmaaa
+$$HH((@@BBBBFFF
+!!YYPPPP$$$$j
+XXXnn(((FFF
+oooojj!(((Ijj
+((AAllllJJ
+YY&&&((((lllluuu
+ssss%sskD!
+IIIIYRRRss
+rrrtttIIdddd
+rr$NNNhDDDD
+%P$Qthhhh(
+NNNeMMMMVVV
+&&&&zzzzDDDSSXXXX
+nAAADDDQQQQ!NN
+wwwwFFlllRRRR
+llllBBBBjjjrrrr
+SSSL@CeeAA
+SSQQQQyCCCCTTTHHHH

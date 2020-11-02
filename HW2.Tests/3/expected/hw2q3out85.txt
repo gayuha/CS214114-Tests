@@ -1,0 +1,7 @@
+Starting the AES Algorithm, please pick amount of iterations:
+Please pick a matrix size:
+Please enter the matrix:
+The encrypted message is:
+90 235 248 
+111 140 239 
+250 25 32 

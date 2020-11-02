@@ -1,0 +1,56 @@
+Please enter the number of strings:
+Please enter the 50 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+$
+y
+p(
+k
+F
+z!%@
+v!%
+r
+HW#
+YU($
+p&rr
+OS
+!HQ
+HpP
+#gdE
+wM$H#
+l#etE@$
+(o@Q@$i$
+@$Ad#k
+%ud##j
+!#nN&(Z$!#s(
+D(#YET
+v(g#xD
+%%s#F@##Ctx
+xdivV(#&c(
+OSS#Vdp
+!%Gx&dsW
+P#aPrnX
+E&zzS(f$#U%
+RF!$vlz
+OyWq#@OY(I
+vKf!PQ
+%ytDrec
+e#EtnUF(E@$!A
+C@srP$Jh@%
+Q(c$!F&eqb!qP
+%s(G!jE#&KB
+wSTfSb$Ubd
+#aNrOjH(D
+KiqQV#$t(XS#K
+zd(c(n$M!U$%g
+&#((!LrxpVPZu
+h@dyt$!A@wXwy
+FqkPDBG!pfS
+IqwJHR!(zu
+&E(jInDB(GU!
+m$WAebpT%J
+ue@!jNysmbnd
+vaIbL(xUJh
+u%NHrO$$IMz@K

@@ -1,0 +1,5 @@
+Enter matrix size (row and column numbers): Enter matrix:
+The reduced matrix:
+1.00 -0.42 -1.88 0.34 -0.36 -1.69 -1.33 
+0.00 1.00 1.42 0.16 0.41 1.49 0.47 
+

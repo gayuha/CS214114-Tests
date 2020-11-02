@@ -1,0 +1,29 @@
+Please enter the number of strings:
+Please enter the 23 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+$$xxxxtt
+BBBBB$$$$]]LLL
+bbbbpppHHHHt]]]]SSDN
+ggg[[!!bbb]]]
+hh${HHwww
+IIII{####bbb
+JJJJbbbg$$$YY^EEEECv
+jmmmgcyyU[[iiii!!!!H
+k!!!BBBB
+llllrrrFaajjEEEEQQ$$
+LLTTT{{{LLLL###D
+NN#{{{$$zziiJpdddNNN
+qq!uuucccsX^^^^HYmmm
+QQQccccggqqqq$$$$$$$
+UUD[[[[I^^^^kkkk$$ee
+xPPPPKK]]]JJJJ[cccee
+xxxGPPPPssss##ggxxx!
+XXX^^^^$$${dddd!!!!f
+[[[^^^yykkkkt$$
+[[[{{{QQaaaaPPwwww^^
+^^$$]]mm!!!!KK$$$ZqE
+^^^^^LLLbbbb
+{ttt^ivvDDttHHH

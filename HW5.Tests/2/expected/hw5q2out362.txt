@@ -1,0 +1,37 @@
+Please enter the number of strings:
+Please enter the 31 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!!UUUU]]]]w##!!!qqq[
+!###Cyyyyy^^{$$j
+#KKKKKK#]]TTTjjjj
+#KKv
+$$$$MM!!!!eeee]###bb
+$ggg
+$[[!!!!ii]]IIII^DFYY
+aaXkkkk
+bUUU[[[^^^
+dEQQQQzzzddd
+EE####PS!!!QQQQ$$$!!
+eeeeuuuhhhhTSSSz^^^
+FFF#FF{{]]yyXXXX###^
+hhhhsss
+hmmUGG
+iaaaaPPPPkkkk!!!!dww
+IFFFWWW####oowwwfff$
+jMMMMrrrrrr####[[PP
+lii]]{{{{mmmmBBBB###
+nnf^ww^^^[H
+QDD!!ggggvvvrrBBBhhh
+ssQQQQjjuu[[[[[[I#$$
+UYY{XXXJJS[!!!!####L
+vfllll[[[[!!!JJJKKK
+www[[xxxx^
+yyllll[[[
+[[[{{{[[[xm^DDDDfykk
+]$$$$^
+]]aAAAvvTTT
+{{{{t!!^^^^[[[XXAAAA
+{{{{^^{qqqnnH^^OOOO{

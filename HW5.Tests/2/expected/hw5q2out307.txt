@@ -1,0 +1,22 @@
+Please enter the number of strings:
+Please enter the 16 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+cccoooWWWWxxxxTTTT!!
+h!!!CCCszzzOnn!XXss{
+HpppppppNNxxx]BBggxx
+LLLL[###AAAA]]JJJJ]]
+ooo!!!ffAAAAWWWWXXXH
+ooooX{{{{gyOII
+ppp{{ccwww
+tttss$$
+wwwwNNNWW
+x^^!!!!
+[QQQyEEvvvNNNN
+]ddddVVllll!nnnn{{{{
+]]]Maaa$$JXkk{{{^^^{
+]]]]
+^^MMMp^^^{{{{l##oo!!
+^^^^SSSSkJJ{!!!!

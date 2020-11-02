@@ -1,0 +1,2 @@
+Students, please enter heights!
+Error! Invalid height 0!

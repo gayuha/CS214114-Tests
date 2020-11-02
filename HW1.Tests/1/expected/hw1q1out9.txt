@@ -1,0 +1,3 @@
+Students, please enter heights!
+Average girls height is: 30.92
+No boys in class! :(

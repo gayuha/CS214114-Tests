@@ -1,0 +1,18 @@
+Please enter the number of strings:
+Please enter the 12 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+yyy
+s
+g
+BBffff
+Vee
+RRBBBMMM
+TTgggmmmm
+jjjjxxxhhhh
+HUUnntnv
+IIrrMMMMcNNNN
+wwwUUUJJJJjjjjAAAAMM
+JJhhhAAAeeeeYXXXX

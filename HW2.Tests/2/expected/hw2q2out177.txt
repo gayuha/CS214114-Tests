@@ -1,0 +1,16 @@
+Please enter a character:
+Please enter votes:
+Histogram:
+    A     A                   
+A   A     A                   
+A   A   A A                A  
+A A A   A A          A     A  
+A A A   A A A        A  A  A  
+A A A A A A A A      A  A  A  
+A A A A A A A A   A  A  A  A  
+A A A A A A A A   A  A  A  A  
+A A A A A A A A A A  A  A  A  
+A A A A A A A A A A  A  A  A  
+A A A A A A A A A A  A  A  A  
+1 2 3 4 5 6 7 8 9 10 11 12 13 
+Assaf was elected!

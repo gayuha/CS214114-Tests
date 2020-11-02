@@ -1,0 +1,23 @@
+Please enter the number of strings:
+Please enter the 17 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+Q
+IIIIqq!II
+J^^^]]]]o
+####uuuu{{{{$$$a$
+!!!^^#NN!GGGG^
+!!!!{{####WWyLLLL###
+{{uuuee]]]]p!$$$VVVV
+O[[Drrrp
+ZZ$$mJ]]Hzzz
+iiiiIIIIWWWW{{{HHTTP
+#$$aaaqqXffffMM
+CCqq^^^HHJJvvvv
+o!!!!!!!!AccczzzzTTT
+mmmFFF]RRR[[[]mppHDD
+vvNNNFFZZZZjjjQ]]]JJ
+kkkHHHH]]m^www^BBB]c
+EIannnnQQQLLL

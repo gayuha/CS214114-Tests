@@ -1,0 +1,11 @@
+Starting the AES Algorithm, please pick amount of iterations:
+Please pick a matrix size:
+Please enter the matrix:
+The encrypted message is:
+201 22 82 42 46 134 209 
+31 231 71 85 91 169 198 
+228 169 181 16 65 171 246 
+63 66 152 160 224 142 163 
+99 82 70 194 58 238 203 
+238 29 200 215 244 55 195 
+185 205 211 231 65 159 107 

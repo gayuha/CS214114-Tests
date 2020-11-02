@@ -1,0 +1,38 @@
+Please enter the number of strings:
+Please enter the 32 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!p((((
+#
+###Y%%%%
+%
+%%%%tdddd%%%%vvGG!!!
+((((
+@mmww
+AA
+BBB
+CCC&&&&%%%
+ccclSSSccccHHH!!!((
+crrrrVVeeeeuuuHE
+dd!!ttto&&&
+HHH
+igbbbbPPP&&k
+II%%%
+ii&
+JJJJN@%%%%
+KKKK&iiiiYYY&&&
+MMM
+ooooK
+PP
+ppppEEEEUUUU
+pSSSSjjjrrraaaxxxxoo
+rr&&#cccc%%%
+sssSS$$!NNNN
+uu
+vvv
+VVVVFFGGGG%%%(
+W&T!!
+wwddzzzzOOAAAAdddddd
+xMrr

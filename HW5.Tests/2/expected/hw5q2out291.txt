@@ -1,0 +1,33 @@
+Please enter the number of strings:
+Please enter the 27 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!(@cBs#@XTn
+#%
+#Enlok(H(EAZc
+#mU
+%!v
+&!!%v@!R
+&%$c#d%kQ@G
+&(BmvZ%
+&kS@z$
+(iHGtLB
+c%JG&@Mps(C
+EzI%w!gnpM!b
+gFG
+I&
+mninklm
+N$!OL!o$n
+O@fF$(
+pHoAm$dK
+QpM$Hri
+qwtozlAC@
+RZC!Hj%@
+SQ(XRup#IMnqD
+tA
+W%B
+xTXB(xc
+y(
+z@

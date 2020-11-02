@@ -1,0 +1,30 @@
+Please enter the number of strings:
+Please enter the 24 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+ppppp
+LLL
+cccc
+cffff
+LLZZZ
+ZZZZD
+OOOOJ
+SSSVVVa
+GGbbEEE
+GGGGzzX
+CIIIIiiiQQ
+eeekkkkTT
+pppGsss
+NNrrrrjjccc
+BBBBzzVVVVKKKK
+gggqqqqoonnnnJJ
+PPPPxxmmwwkkk
+RRRfffBBBBBNuuu
+XKBBbbbbhllll
+MMAAAAffhhhheee
+uuuuFTlllkss
+RRRRnTTGGGGHm
+TTTTrccccrrrrllPPQQQ
+XXrrrrPPPjNNBBBBw

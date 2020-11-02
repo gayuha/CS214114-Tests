@@ -1,0 +1,55 @@
+Please enter the number of strings:
+Please enter the 49 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!!!!$$$
+!!!{{{[
+!!vvtttt$$${{{{HHHH[
+####RRRfff
+##$$$
+$
+$$$$RRRRPPPPggNNiir[
+aasss$$b$$$$dddjllll
+BBBBdddd^^MMMM]]]$CC
+ccccAAA^^^^WWWCCTTT
+cccww
+CtRRRFF[[!!WW[[[]]]
+ddddsssFFoooFHHH$VVV
+ddddUhaaaw]]]RRRRRR
+deddHHH$llll^^^MAA$$
+e####uuuaa{d####oobz
+eeee$$wggXXMMMLLrrrr
+ekkkOOOm^^^bbb[[[mmm
+e]]{{{X
+fffVVVVllllmvvvvv
+gggXXXX]]]^^$kkk[[VV
+gggzzzdddYYYYUUU!!!!
+hhDDDD!!!eee{{####$$
+hhhh{{AAA]]]]pppxxxx
+hhhyy!!!!^^XX{d[[[$$
+hhJ]]][[!TTTTffffAAA
+HHqqqqm!ssCCCPD
+kkkkSSSSDD####CC
+lBNN^^kkkkpppXXXyyy]
+ljjjjrrDDDDXXXsss$$^
+LL[[[[]{[OOOO[[[
+mmmgd
+ooooPPPr
+QQQQss^^ssRREjsllllT
+R
+rrGGGGoookkkk
+Suuuu##LLLLVV###lfff
+ttt
+uuuuIIIvv[[[lkkkk!!U
+vvvooo]]]]{{{{!!!ww]
+ww
+w[[[DDD$I$$${{{{^
+xxx^^^^^^^
+XXzzzzNNNaaaaFFFyyy!
+zzpppwwwtttt[[[aaa]^
+[aKKf]]]]oqTTTT]]]]u
+]!!!!yy[[rrrP$iirrrr
+^^^kkk^[[
+^^^^!!!!^^^^P

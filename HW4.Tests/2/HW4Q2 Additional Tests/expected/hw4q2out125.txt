@@ -1,0 +1,3 @@
+Enter number of banned words: Enter banned words: Enter a sentence:
+Censored sentence:
+__interne__rockfall_wee__ay_stonemason___quirkish

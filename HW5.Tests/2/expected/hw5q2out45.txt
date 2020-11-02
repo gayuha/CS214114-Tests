@@ -1,0 +1,29 @@
+Please enter the number of strings:
+Please enter the 23 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+zzzz
+A
+ppp
+u
+lll
+XXpp
+GGGGkk
+JJJJUuuooo
+igGPP
+lEEEEr
+FFaddddf
+fTTTTr
+xxxuuuZ
+hhhhaaaaNNDDDD
+IjjFFFFrrttt
+FFFtttffffkkkRRmmmmO
+IIIIGGEHHHZZr
+YYYTTTVIIyyyDll
+zzzEooooaaaabbbbxxxx
+GGGGPPbbbrrPPPJJJzzz
+MMMMbbbzzzwwQQGGR
+XoZZZhhiiUUUTT
+WPPPPlcaaaaOOGG

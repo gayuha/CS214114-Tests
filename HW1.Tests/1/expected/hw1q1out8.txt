@@ -1,0 +1,3 @@
+Students, please enter heights!
+Average girls height is: 85.00
+Average boys height is: 77.00

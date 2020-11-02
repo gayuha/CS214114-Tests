@@ -1,0 +1,55 @@
+Please enter the number of strings:
+Please enter the 49 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+!!!!dFFFxx$$$GGGQQQQ
+!!U]]]oMMM##meeee
+##aaaaaUU
+#g$$$$]]]]{{{NNN
+#ZZ{{{ddddSSyyyyRRR
+$$$fzzzzhho
+$$$qqq!!!YJJJJggpppp
+$$[[[eedqhhhhjjjjccc
+b!!!^^
+BB
+bbbbCCCCUqqqqQQQKyyy
+bYYvvv
+D!!O
+eeDDDD[[[[!MMllll$$$
+ee{{{^^gggp]]]]azzzc
+FXX$$$^^^^[[[^^^oooo
+gggg!!^^[[R$]]]]EEEE
+GGGGvvv#ccccJJJJzz##
+HH$$$$#!##p
+hhhh###PP#m{{###yyy[
+H]kk
+jkkkFFiii$$$$^^^
+KiiiiVVVVddddAHt^{{{
+KKK]]]]bb^^^^xxxx
+LLVVSSjjjd^]]]]xxxf{
+MM[[XOddddooZ
+mm[[[O$$$WWGGGGnnnMM
+O$tttmttttYYYvvvv[FF
+PPPP[qssDDD]]]$${{{{
+rM
+SGGGAAAzzzVVJJ
+TTTTMMM!OOOO^^
+TTTTMMYYYYjQQllQQQQ
+vvuuuIIIGG{{{{{^xxCC
+www##
+xxuJJJoohhmmmNN]SS##
+XXX##uuuuIII[vvv!!!V
+YYY!!!tttt##y]mmmlIU
+YYYYeee
+z{^^LLLL[KKTTT
+[[HHHoooooooYYYnnn
+]]]AGGGjjj[[[[vvDDDv
+]]]]xxx[[[[{{{{h{{{{
+^^hh$$$SSS$$$$NUgggf
+^^iiijjjXmmmm]
+{RRRR[[N!aa{{GGGG##
+{ZjjHYYYlWWW{{^^^{{{
+{{{
+{{{yyMMM{xxxooooFFFF

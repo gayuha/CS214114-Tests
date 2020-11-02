@@ -1,0 +1,7 @@
+Please enter shift number:
+Please enter text to encrypt:
+
+ARE
+
+YOU 	NOT ENTERTAINED!
+?

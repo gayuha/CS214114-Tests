@@ -1,0 +1,13 @@
+Please enter the number of strings:
+Please enter the 7 strings:
+Please enter the rule of comparison between strings.
+1: Lexicographic order.
+2: By the diversity of letters.
+The sorted strings are:
+##OOOMMMJJJwwww
+&!!!!wIIIxxxx!!!!ooo
+lUUGGGG
+ooYYYQQQ%%sss
+S$$!!
+UU
+wwwwTTT$

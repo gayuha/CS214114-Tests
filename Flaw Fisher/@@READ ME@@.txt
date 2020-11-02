@@ -1,0 +1,14 @@
+Flaw Fisher v1.0.0
+
+MetroFramework.dll	 }  
+			 } essential files for running. Must be present at all times.
+MetroFramework.Fonts.dll }  
+
+
+Tutorial mode will start on FIRST run ONLY.
+If you find any bugs/have any suggestions, kindly submit to maker.
+
+VirusTotal scan : https://www.virustotal.com/#/file/48a66d1691f7bc56c7e3de958d1aba0b0ab580d58c7d4c26c14dfe1a85979bdc/detection
+
+NOTE: some defenders might flag as harmful. If you wish to use the program but are afraid it is malware, 
+ask for source code or run a virustotal.com scan yourself. 
